@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm KEMILA DABARE</h1>
-<h3 align="center">Associate Software Engineer(Flutter/Nodejs)</h3>
+<h3 align="center"> Software Engineer(Nodejs/Flutter)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemila3&label=Profile%20views&color=0e75b6&style=flat" alt="kemila3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemila3" alt="kemila3" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
